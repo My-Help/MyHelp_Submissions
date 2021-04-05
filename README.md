@@ -12,10 +12,8 @@ Project write-up - https://github.com/My-Help/MyHelp_Submissions/blob/master/MyH
 LVL 0 DFD - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/Zero%20Level%20DFD/DFD_MyHelp_ZeroLevel.jpeg <br><br>
 
 LVL 1 DFD :
-<br> Customer_level1_dfd - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/First%20Level%20DFDs/Customer_dfd_level_1.jpg 
-<br>
-ServiceProvider_level1_dfd - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/First%20Level%20DFDs/Service_provider%20dfd_level_1.jpg <br>
-<br>
+<br> Customer_level1_dfd - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/First%20Level%20DFDs/Customer_dfd_level_1.jpg <br>
+ServiceProvider_level1_dfd - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/First%20Level%20DFDs/Service_provider%20dfd_level_1.jpg <br><br>
 
 Decision Table - https://github.com/My-Help/MyHelp_Submissions/blob/master/MyHelp_DecisionTable.pdf <br><br>
 
