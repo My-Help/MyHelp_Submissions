@@ -12,11 +12,11 @@ Project write-up - https://github.com/My-Help/MyHelp_Submissions/blob/master/MyH
 LVL 0 DFD - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/Zero%20Level%20DFD/DFD_MyHelp_ZeroLevel.jpeg <br><br>
 
 LVL 1 DFD :
-<br> Customer_level1_dfd - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/First%20Level%20DFDs/Customer_dfd_level_1.jpg <br>
+<br> Customer_level1_dfd - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/First%20Level%20DFDs/Customer_DFD_Level1_updated.png <br>
 ServiceProvider_level1_dfd - https://github.com/My-Help/MyHelp_Submissions/blob/master/DataFlowDiagrams/First%20Level%20DFDs/Service_provider%20dfd_level_1.jpg <br><br>
 
 Decision Table - https://github.com/My-Help/MyHelp_Submissions/blob/master/MyHelp_DecisionTable.pdf <br><br>
 
 Data Dictionary :
-<br> Customer_Data_Dictionary - https://github.com/My-Help/MyHelp_Submissions/blob/master/Data%20Dictionary/Customer%20Data%20Dictionary.pdf<br>
-ServiceProvider_Data_Dictionary - https://github.com/My-Help/MyHelp_Submissions/blob/master/Data%20Dictionary/Service%20Provider%20Data%20Dictionary.pdf <br><br>
+<br> Customer_Data_Dictionary - https://github.com/My-Help/MyHelp_Submissions/blob/master/Data%20Dictionary/CUSTOMER%20DATA%20DICTIONARY_updated.pdf<br>
+ServiceProvider_Data_Dictionary - https://github.com/My-Help/MyHelp_Submissions/blob/master/Data%20Dictionary/Service%20Provider%20Data%20Dictionary_updated.pdf <br><br>
